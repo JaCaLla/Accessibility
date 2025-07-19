@@ -2,8 +2,7 @@
 Sample iOS that implements several accessibility flavors This is the basecode for following post [Visual Accessibilty in iOS](https://javios.eu/uncategorized/visual-accessibilty-in-ios/)
 
 ## Appareance
-<img src="media/review.gif" alt="Playground on action" width="300">
-<img src="media/review2.gif" alt="Playground on action" width="300">
+<img src="media/review.gif" alt="Playground on action" width="300"> <img src="media/review2.gif" alt="Playground on action" width="300">
 
 ## ✨ Visual accessibility nutrition labels covered
 
