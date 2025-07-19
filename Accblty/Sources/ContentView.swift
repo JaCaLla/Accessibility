@@ -7,9 +7,26 @@ struct ContentView: View {
                 .tabItem {
                     Label("Sufficient Contrast", systemImage: "circle.lefthalf.filled")
                 }
+            DarkModeView()
+                .tabItem {
+                    Label("Dark Mode", systemImage: "lanyardcard")
+                }
+            LargerTextView()
+                .tabItem {
+                    Label("Larger Text", systemImage: "textformat.size")
+                }
+            DifferentiateColorView()
+                .tabItem {
+                    Label("Differentiate Color", systemImage: "circlebadge.2.fill")
+                }
+            ReducedMotionView()
+                .tabItem {
+                    Label("Reduced Motion", systemImage: "circle.dotted.and.circle")
+                }
         }
     }
 }
+
 
 
 
