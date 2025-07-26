@@ -23,6 +23,10 @@ struct ContentView: View {
                 .tabItem {
                     Label("Reduced Motion", systemImage: "circle.dotted.and.circle")
                 }
+            VoiceControlView()
+                .tabItem {
+                    Label("Voice Control", systemImage: "circle.dotted.and.circle")
+                }
         }
     }
 }
