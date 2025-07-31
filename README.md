@@ -1,5 +1,5 @@
 # Accessibility
-Sample iOS that implements several accessibility flavors This is the basecode for following post [Visual Accessibilty in iOS](https://javios.eu/uncategorized/visual-accessibilty-in-ios/)
+Sample iOS that implements several accessibility flavors This is the basecode for following post [Visual Accessibilty in iOS](https://javios.eu/uncategorized/visual-accessibilty-in-ios/) and [Interaction and Media Accessibility in iOS](https://javios.eu/accessibility/interaction-and-media-accessibility-in-ios/)
 
 ## Appareance
 <img src="media/review.gif" alt="Playground on action" width="300"> <img src="media/review2.gif" alt="Playground on action" width="300">
