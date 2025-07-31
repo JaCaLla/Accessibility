@@ -25,7 +25,11 @@ struct ContentView: View {
                 }
             VoiceControlView()
                 .tabItem {
-                    Label("Voice Control", systemImage: "circle.dotted.and.circle")
+                    Label("Voice Control", systemImage: "waveform")
+                }
+            VoiceOverView()
+                .tabItem {
+                    Label("Voice Over", systemImage: "voiceover")
                 }
         }
     }
