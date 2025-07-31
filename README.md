@@ -4,6 +4,12 @@ Sample iOS that implements several accessibility flavors This is the basecode fo
 ## Appareance
 <img src="media/review.gif" alt="Playground on action" width="300"> <img src="media/review2.gif" alt="Playground on action" width="300">
 
+## Voice Over
+<img src="media/VoiceOver.gif" alt="Playground on action" width="600">
+
+## Voice Control
+<img src="media/VoiceControl.gif" alt="Playground on action" width="600">
+
 ## ✨ Visual accessibility nutrition labels covered
 
 - ✅ Sufficient Contrast
